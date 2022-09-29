@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gemparpanggih
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Back-End Development
-- 📫 How to reach me @gmpar_p
 
 <!---
 gemparpanggih/gemparpanggih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
